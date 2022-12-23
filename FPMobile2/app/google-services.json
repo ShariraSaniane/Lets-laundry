@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "357319491843",
+    "project_id": "fp-mobile-1de51",
+    "storage_bucket": "fp-mobile-1de51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357319491843:android:716ae4e07c58881576a936",
+        "android_client_info": {
+          "package_name": "com.example.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357319491843-n3j3atqjm2t8b2ualo3kb9j0423i820d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLUq8DNo3C1DGbUlci6r7J5IX9W_jRKvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357319491843-n3j3atqjm2t8b2ualo3kb9j0423i820d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357319491843:android:85ecd2ec25ac312f76a936",
+        "android_client_info": {
+          "package_name": "com.example.fpmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357319491843-n3j3atqjm2t8b2ualo3kb9j0423i820d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLUq8DNo3C1DGbUlci6r7J5IX9W_jRKvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357319491843-n3j3atqjm2t8b2ualo3kb9j0423i820d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
